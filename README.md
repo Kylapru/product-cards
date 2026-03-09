@@ -1,1 +1,4 @@
-# product-cards
+как правильно сохраять, открываешь консоль в vs code и пишешь:
+git add . 
+git commit -m "Добавил (что-то)". (главное не проебвать ковычки)
+git push origin vision or texst. (или любая другая ветка)
